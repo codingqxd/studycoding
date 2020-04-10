@@ -16,5 +16,6 @@ public class DateFormt {
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yy-MM-dd HH:mm:ss");
         String format = simpleDateFormat.format(date);
         System.out.println(format);
+        System.out.println("好开心");
     }
 }
